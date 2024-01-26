@@ -1,5 +1,5 @@
 ---
-title: Mistral Super Fast
+title: Mistral Chatbot
 emoji: 😻
 colorFrom: red
 colorTo: yellow
